@@ -1,4 +1,3 @@
-
 import cv2
 import pyautogui
 import mediapipe as mp
